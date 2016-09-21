@@ -1,1 +1,1 @@
-The following students collaborated on this assignment: Scott Smith, Sebastian Bana, Luis Fernando, Sofyia X, Ben Alpert, Mark X, Jonathan Geis.
+The following students collaborated on this assignment: Sebastian Bana, Luis Fernando, Sofyia X, Jonathan Geis.

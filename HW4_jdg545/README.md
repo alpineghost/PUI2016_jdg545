@@ -11,4 +11,8 @@ Logistic Regression |  previously tested positive or negative to STI, sent SMS a
 Chi-Square Analysis |  Number of Viruses/Parasites in Cats | continuous | Different combinations of status (seropositive or seronegative) for the two pathogens | discrete | n/a | n/a | Do pathogen and parasite combinations increase risk (seropositive or seronegative) of virus pairing in domestic cats? | H0: Independent viruses and pathogens are equally or less likely to synergize or double associate and pair in cats possessing multiple parasite and pathogens. | n/a | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029618 |
 ||||||||||||||||
 
+## Assignment 3
+I collaborated with Sofiya Elyakin and Ben Alpert. Sofiya had worked on it with Sebastian Bana and Marc Toneatto and explained it to us.
 
+## Assignment 4
+I collaborated with Sofiya Elyakin and Ben Alpert. We tried different methods to clean up the data and ran the different tests.

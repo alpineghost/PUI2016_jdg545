@@ -10,4 +10,4 @@ is *Acceptance of Home-Based Chlamydia Genital and Anorectal Testing Using Short
 |:--------------:|:--------------:|:------:|:---------:|:-----------:|:-----------:|:------------:|:------------------:|:-------:|:---------:|:---------|
 Logistic Regression |  previously tested positive or negative to STI, sent SMS and reminders, sent extra test kit| categorical | requested a test kit, actually re-tested, had a peer tested | categorical | n/a | n/a | Does communication by SMS increase response rate?, How does previous test result affect response?, Will they get their peers tested? | SMS communication has no effect on specimens' response    |  n/a   | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133575 |
 
- |||||||||||||||||||||
+

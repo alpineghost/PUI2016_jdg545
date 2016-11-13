@@ -1,0 +1,1 @@
+I collaborated on this assignment with Sebastian Bana, Sofiya Elyakin, Ben Alpert, and Scott Smith. For this assignment, I followed a lot of the thinking that Sebastian did especially with Fourier.

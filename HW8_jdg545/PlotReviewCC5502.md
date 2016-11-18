@@ -1,18 +1,14 @@
-Reviewed by: Jonathan Geis (jdg545). Plot created by Tang Sichen (st1671)
+Reviewed by: Jonathan Geis (jdg545). Plot created by Chen Chongyang (cc5502)
 
 ![Screenshot] (https://raw.githubusercontent.com/alpineghost/PUI2016_jdg545/master/HW8_jdg545/cc5502_plot.PNG)
 
-CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
-The plot is missing some information that would help it make it clear. Here are some suggestions to help make it clearer to the reader. 
-•	Include a title that describes what you’re plotting across all four graphs, maybe something like “The relationship between altitude and temperature”
-•	Provide a label for the X-axis and Y-axis and include the units.
-•	Add a legend that identifies what the colors and the different lines represent
-It would also be helpful for you to include a caption describing what the plots are showing and your interpretation and analysis of the plots.
+CLARITY: The plot is very clear to read. There's a descriptive title and clear labels to indicate what the axes represent. The caption and interpretation are very well explained.
+To make it a bit clearer, there could be a legend in the plot that explains what the colors represent as well as a scale showing what the size of the dots mean as far as the number of students.
 
 ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
 
-The plots make a good use of color to represent different lines. To make it more esthetic, the plots could be shown at a larger scale.
+The plot is beautiful and makes a very interesting use of 3D. It took me a little time to understand what everyhting meant but once I did, I found that all of the information is in the plot in a very elegant way.
 
 HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
-The plots represent the data without deforming it and it is clear that the altitude and temperature have a negative correlation.
+I think that the plot represent the data without deforming it. However, since the plot is in 3D there could be some accuracy lost because of the projection on a 2D screen. It would be interesting to see 3 separate graphs representing the relationshipds between 2 out of the 3 variables to identify the correlation.
 

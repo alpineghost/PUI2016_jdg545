@@ -1,3 +1,5 @@
+Reviewed by: Jonathan Geis (jdg545). Plot created by Tang Sichen (st1671)
+
 ![Screenshot] (https://raw.githubusercontent.com/alpineghost/PUI2016_jdg545/master/HW8_jdg545/st1671_plot.PNG)
 
 CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?

@@ -1,1 +1,1 @@
-I collaborated on this assignment with Sebastian Bana, Sofiya Elyakin, Ben Alpert, Marc Toneatto, and Scott Smith. We ran it independently and selected different parameters to reduce the dataset. 
+I collaborated on this assignment with Sebastian Bana, Sofiya Elyakin, Ben Alpert, Marc Toneatto, and Scott Smith.

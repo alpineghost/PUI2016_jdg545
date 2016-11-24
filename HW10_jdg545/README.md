@@ -1,0 +1,1 @@
+I worked on these assignments in collaboration with several classmates from the Thursday class. In class, I worked with Ben Alpert, Sofyia Elyukin, and Scott Smith. Later, I also worked with Sebastian Bana and Bailey Griswold.

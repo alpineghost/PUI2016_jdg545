@@ -1,0 +1,2 @@
+I collaborated on these assignments with Sebastian Bana, Scott Smith, Ben Alpert, Sofiya Elyukin, and Bailey Griswold.
+For assignment 2, we used code from https://www.codementor.io/python/tutorial/data-science-python-pandas-r-dimensionality-reduction
